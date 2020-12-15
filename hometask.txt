@@ -1,0 +1,4 @@
+После изменений ветка master , имеет различия с demo:
+    1. В demo отсутствует ветка fix readme
+    2. В demo отсутствует ветка слития boots_buttons в master
+    3. В master отсутствует ветка слития boots в demo и buttons в demo
