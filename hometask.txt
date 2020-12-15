@@ -2,3 +2,4 @@
     1. В demo отсутствует ветка fix readme
     2. В demo отсутствует ветка слития boots_buttons в master
     3. В master отсутствует ветка слития boots в demo и buttons в demo
+В веб-интерфейсе видно 11 коммитов , не считая коммит для внесения изменений в hometask.txt
